@@ -1,14 +1,13 @@
 # Spring JPA + H2 Practice Project
 
 This is a simple project built with **Spring Boot**, **Spring Data JPA**, and **H2 Database**.  
-It demonstrates how to build a basic CRUD REST API for managing users.
+It demonstrates how to build a basic  REST API for managing users.
 
 ---
 
 ## 🚀 Features
 - Spring Boot application using Maven.
 - RESTful APIs for `User` entity.
-- CRUD operations (Create, Read, Update, Delete).
 - In-memory **H2 Database** for quick testing and development.
 - Service layer for business logic.
 - Repository layer using **Spring Data JPA**.
